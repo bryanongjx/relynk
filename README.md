@@ -1,5 +1,5 @@
 # Relynk Shop User Guide
-# how to use: 
+# How to use: 
 input command is 
 ```
 createProduct --product=<product_type>

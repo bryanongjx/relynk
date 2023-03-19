@@ -1,6 +1,6 @@
 # Relynk Shop User Guide
 # how to use: 
-command is 
+input command is 
 ```
 createProduct --product=<product_type>
 ```
